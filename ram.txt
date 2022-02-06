@@ -1,3 +1,4 @@
-mencoba menggunakan github
-mempelajari membuat repository
-mempelajari sebutan-sebutan pada git
+Tujuan Belajar git
+-mencoba menggunakan github
+-mempelajari membuat repository
+-mempelajari sebutan-sebutan pada git
